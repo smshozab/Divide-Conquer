@@ -35,7 +35,7 @@ This project implements two well-known divide and conquer algorithms:
 ## How to Run Locally:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/smshozab/Divide-Conquer.git
+   git clone https://github.com/smshozab/closest-pair-karatsuba.git
    cd closest-pair-karatsuba
 2. Install the required dependencies: bash Copy code
    ```bash
